@@ -79,7 +79,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "ajE5MnR_Queen-Anya_uVGY=", 
+  sessionId: process.env.SESSION_ID || "Y2ZZYVI_Queen-Anya_3dVg=", 
   image_1: readFileSync('./lib/Assets/image_1.jpg'), // Thumbnail for allmenu command
   image_2: readFileSync('./lib/Assets/image_2.jpg'), // null image
   image_3: readFileSync("./lib/Assets/image_3.jpg"), // Thumbnail for Dashboard
@@ -105,14 +105,14 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Cyber ma" 
+global.botname = process.env.BotName || "*𝙷𝙰𝚂𝙸𝚈𝙰 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙱𝙾𝚃* ✨" 
 global.author = process.env.Author || "@ms" 
 global.packname = process.env.PackName || "Cyber ms v2 MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
 global.footer = process.env.Footer || "© Cyber ms bot Bot" 
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
+global.ownername = process.env.Owner_Name || "𝙷𝙰𝚂𝙸𝚈𝙰 🌼" 
 global.ownernumber = process.env.Owner_Number || "+94705533794" 
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Sri lanka/Kegalle" 
